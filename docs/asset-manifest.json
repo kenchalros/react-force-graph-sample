@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/kenchalros.github.io/react-force-graph-sample/static/js/main.248c6431.chunk.js",
-    "main.js.map": "/kenchalros.github.io/react-force-graph-sample/static/js/main.248c6431.chunk.js.map",
-    "runtime-main.js": "/kenchalros.github.io/react-force-graph-sample/static/js/runtime-main.c6275376.js",
-    "runtime-main.js.map": "/kenchalros.github.io/react-force-graph-sample/static/js/runtime-main.c6275376.js.map",
-    "static/js/2.ea879866.chunk.js": "/kenchalros.github.io/react-force-graph-sample/static/js/2.ea879866.chunk.js",
-    "static/js/2.ea879866.chunk.js.map": "/kenchalros.github.io/react-force-graph-sample/static/js/2.ea879866.chunk.js.map",
-    "index.html": "/kenchalros.github.io/react-force-graph-sample/index.html",
-    "precache-manifest.1d542f75cd6f25ba4275c9cb6fbfa909.js": "/kenchalros.github.io/react-force-graph-sample/precache-manifest.1d542f75cd6f25ba4275c9cb6fbfa909.js",
-    "service-worker.js": "/kenchalros.github.io/react-force-graph-sample/service-worker.js",
-    "static/js/2.ea879866.chunk.js.LICENSE.txt": "/kenchalros.github.io/react-force-graph-sample/static/js/2.ea879866.chunk.js.LICENSE.txt"
+    "main.js": "/react-force-graph-sample/static/js/main.248c6431.chunk.js",
+    "main.js.map": "/react-force-graph-sample/static/js/main.248c6431.chunk.js.map",
+    "runtime-main.js": "/react-force-graph-sample/static/js/runtime-main.25c3fe3a.js",
+    "runtime-main.js.map": "/react-force-graph-sample/static/js/runtime-main.25c3fe3a.js.map",
+    "static/js/2.ea879866.chunk.js": "/react-force-graph-sample/static/js/2.ea879866.chunk.js",
+    "static/js/2.ea879866.chunk.js.map": "/react-force-graph-sample/static/js/2.ea879866.chunk.js.map",
+    "index.html": "/react-force-graph-sample/index.html",
+    "precache-manifest.1fa8db5eb3b598aaf33ad22690ad53a8.js": "/react-force-graph-sample/precache-manifest.1fa8db5eb3b598aaf33ad22690ad53a8.js",
+    "service-worker.js": "/react-force-graph-sample/service-worker.js",
+    "static/js/2.ea879866.chunk.js.LICENSE.txt": "/react-force-graph-sample/static/js/2.ea879866.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6275376.js",
+    "static/js/runtime-main.25c3fe3a.js",
     "static/js/2.ea879866.chunk.js",
     "static/js/main.248c6431.chunk.js"
   ]

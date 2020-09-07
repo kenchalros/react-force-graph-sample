@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/kenchalros.github.io/react-force-graph-sample/static/js/main.248c6431.chunk.js",
+    "main.js.map": "/kenchalros.github.io/react-force-graph-sample/static/js/main.248c6431.chunk.js.map",
+    "runtime-main.js": "/kenchalros.github.io/react-force-graph-sample/static/js/runtime-main.c6275376.js",
+    "runtime-main.js.map": "/kenchalros.github.io/react-force-graph-sample/static/js/runtime-main.c6275376.js.map",
+    "static/js/2.ea879866.chunk.js": "/kenchalros.github.io/react-force-graph-sample/static/js/2.ea879866.chunk.js",
+    "static/js/2.ea879866.chunk.js.map": "/kenchalros.github.io/react-force-graph-sample/static/js/2.ea879866.chunk.js.map",
+    "index.html": "/kenchalros.github.io/react-force-graph-sample/index.html",
+    "precache-manifest.1d542f75cd6f25ba4275c9cb6fbfa909.js": "/kenchalros.github.io/react-force-graph-sample/precache-manifest.1d542f75cd6f25ba4275c9cb6fbfa909.js",
+    "service-worker.js": "/kenchalros.github.io/react-force-graph-sample/service-worker.js",
+    "static/js/2.ea879866.chunk.js.LICENSE.txt": "/kenchalros.github.io/react-force-graph-sample/static/js/2.ea879866.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6275376.js",
+    "static/js/2.ea879866.chunk.js",
+    "static/js/main.248c6431.chunk.js"
+  ]
+}
